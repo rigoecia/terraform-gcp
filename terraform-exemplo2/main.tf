@@ -6,14 +6,14 @@ terraform {
   }
 
    backend "gcs" {
-    bucket  = "barberoterraform"
+    bucket  = "sinteticoterraform"
     prefix  = "terraform/state"
   }
   
 }
 
 provider "google" {
-  project = "barbero-devops-iac"
+  project = "sintetico-devops-iac"
   region  = "us-central1"
   zone    = "us-central1-c"
 }

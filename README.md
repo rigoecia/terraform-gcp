@@ -6,4 +6,6 @@
 
 3. Salve os arquivos do Estado no Google Cloud Storage.
 
-Submeta o print de cada etapa de configuração do Pipeline .
+-> Submeta o print de cada etapa de configuração do Pipeline .
+--> Estou aguardando resposta do Google sobre a minha conta. Pois não consigo acessá-la.
+---> Não impactou o aprendizado teorico sobre o GCP, somente a prática e laboratórios que não consegui realizar.
